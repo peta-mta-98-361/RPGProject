@@ -1,0 +1,10 @@
+c:\users\mchittenden\source\repos\RPG_Lesson01\while_Statement\bin\Debug\netcoreapp2.0\while_Statement.deps.json
+c:\users\mchittenden\source\repos\RPG_Lesson01\while_Statement\bin\Debug\netcoreapp2.0\while_Statement.runtimeconfig.json
+c:\users\mchittenden\source\repos\RPG_Lesson01\while_Statement\bin\Debug\netcoreapp2.0\while_Statement.runtimeconfig.dev.json
+c:\users\mchittenden\source\repos\RPG_Lesson01\while_Statement\bin\Debug\netcoreapp2.0\while_Statement.dll
+c:\users\mchittenden\source\repos\RPG_Lesson01\while_Statement\bin\Debug\netcoreapp2.0\while_Statement.pdb
+c:\users\mchittenden\source\repos\RPG_Lesson01\while_Statement\obj\Debug\netcoreapp2.0\while_Statement.csproj.CoreCompileInputs.cache
+c:\users\mchittenden\source\repos\RPG_Lesson01\while_Statement\obj\Debug\netcoreapp2.0\while_Statement.AssemblyInfoInputs.cache
+c:\users\mchittenden\source\repos\RPG_Lesson01\while_Statement\obj\Debug\netcoreapp2.0\while_Statement.AssemblyInfo.cs
+c:\users\mchittenden\source\repos\RPG_Lesson01\while_Statement\obj\Debug\netcoreapp2.0\while_Statement.dll
+c:\users\mchittenden\source\repos\RPG_Lesson01\while_Statement\obj\Debug\netcoreapp2.0\while_Statement.pdb

@@ -1,0 +1,11 @@
+c:\users\mchittenden\source\repos\RPG_Lesson01\switch_StatementRPG\bin\Debug\netcoreapp2.0\switch_StatementRPG.deps.json
+c:\users\mchittenden\source\repos\RPG_Lesson01\switch_StatementRPG\bin\Debug\netcoreapp2.0\switch_StatementRPG.runtimeconfig.json
+c:\users\mchittenden\source\repos\RPG_Lesson01\switch_StatementRPG\bin\Debug\netcoreapp2.0\switch_StatementRPG.runtimeconfig.dev.json
+c:\users\mchittenden\source\repos\RPG_Lesson01\switch_StatementRPG\bin\Debug\netcoreapp2.0\switch_StatementRPG.dll
+c:\users\mchittenden\source\repos\RPG_Lesson01\switch_StatementRPG\bin\Debug\netcoreapp2.0\switch_StatementRPG.pdb
+c:\users\mchittenden\source\repos\RPG_Lesson01\switch_StatementRPG\obj\Debug\netcoreapp2.0\switch_StatementRPG.csprojAssemblyReference.cache
+c:\users\mchittenden\source\repos\RPG_Lesson01\switch_StatementRPG\obj\Debug\netcoreapp2.0\switch_StatementRPG.csproj.CoreCompileInputs.cache
+c:\users\mchittenden\source\repos\RPG_Lesson01\switch_StatementRPG\obj\Debug\netcoreapp2.0\switch_StatementRPG.AssemblyInfoInputs.cache
+c:\users\mchittenden\source\repos\RPG_Lesson01\switch_StatementRPG\obj\Debug\netcoreapp2.0\switch_StatementRPG.AssemblyInfo.cs
+c:\users\mchittenden\source\repos\RPG_Lesson01\switch_StatementRPG\obj\Debug\netcoreapp2.0\switch_StatementRPG.dll
+c:\users\mchittenden\source\repos\RPG_Lesson01\switch_StatementRPG\obj\Debug\netcoreapp2.0\switch_StatementRPG.pdb

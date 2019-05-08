@@ -1,0 +1,10 @@
+c:\users\mchittenden\source\repos\RPG_Lesson01\IntroducingCS\obj\Debug\netcoreapp2.0\IntroducingCS.csproj.CoreCompileInputs.cache
+c:\users\mchittenden\source\repos\RPG_Lesson01\IntroducingCS\obj\Debug\netcoreapp2.0\IntroducingCS.AssemblyInfoInputs.cache
+c:\users\mchittenden\source\repos\RPG_Lesson01\IntroducingCS\obj\Debug\netcoreapp2.0\IntroducingCS.AssemblyInfo.cs
+c:\users\mchittenden\source\repos\RPG_Lesson01\IntroducingCS\bin\Debug\netcoreapp2.0\IntroducingCS.deps.json
+c:\users\mchittenden\source\repos\RPG_Lesson01\IntroducingCS\bin\Debug\netcoreapp2.0\IntroducingCS.runtimeconfig.json
+c:\users\mchittenden\source\repos\RPG_Lesson01\IntroducingCS\bin\Debug\netcoreapp2.0\IntroducingCS.runtimeconfig.dev.json
+c:\users\mchittenden\source\repos\RPG_Lesson01\IntroducingCS\bin\Debug\netcoreapp2.0\IntroducingCS.dll
+c:\users\mchittenden\source\repos\RPG_Lesson01\IntroducingCS\bin\Debug\netcoreapp2.0\IntroducingCS.pdb
+c:\users\mchittenden\source\repos\RPG_Lesson01\IntroducingCS\obj\Debug\netcoreapp2.0\IntroducingCS.dll
+c:\users\mchittenden\source\repos\RPG_Lesson01\IntroducingCS\obj\Debug\netcoreapp2.0\IntroducingCS.pdb

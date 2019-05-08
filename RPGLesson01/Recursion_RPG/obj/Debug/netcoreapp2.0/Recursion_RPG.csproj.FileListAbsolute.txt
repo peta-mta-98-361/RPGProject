@@ -1,0 +1,11 @@
+c:\users\mchittenden\source\repos\RPG_Lesson01\Recursion_RPG\bin\Debug\netcoreapp2.0\Recursion_RPG.deps.json
+c:\users\mchittenden\source\repos\RPG_Lesson01\Recursion_RPG\bin\Debug\netcoreapp2.0\Recursion_RPG.runtimeconfig.json
+c:\users\mchittenden\source\repos\RPG_Lesson01\Recursion_RPG\bin\Debug\netcoreapp2.0\Recursion_RPG.runtimeconfig.dev.json
+c:\users\mchittenden\source\repos\RPG_Lesson01\Recursion_RPG\bin\Debug\netcoreapp2.0\Recursion_RPG.dll
+c:\users\mchittenden\source\repos\RPG_Lesson01\Recursion_RPG\bin\Debug\netcoreapp2.0\Recursion_RPG.pdb
+c:\users\mchittenden\source\repos\RPG_Lesson01\Recursion_RPG\obj\Debug\netcoreapp2.0\Recursion_RPG.csprojAssemblyReference.cache
+c:\users\mchittenden\source\repos\RPG_Lesson01\Recursion_RPG\obj\Debug\netcoreapp2.0\Recursion_RPG.csproj.CoreCompileInputs.cache
+c:\users\mchittenden\source\repos\RPG_Lesson01\Recursion_RPG\obj\Debug\netcoreapp2.0\Recursion_RPG.AssemblyInfoInputs.cache
+c:\users\mchittenden\source\repos\RPG_Lesson01\Recursion_RPG\obj\Debug\netcoreapp2.0\Recursion_RPG.AssemblyInfo.cs
+c:\users\mchittenden\source\repos\RPG_Lesson01\Recursion_RPG\obj\Debug\netcoreapp2.0\Recursion_RPG.dll
+c:\users\mchittenden\source\repos\RPG_Lesson01\Recursion_RPG\obj\Debug\netcoreapp2.0\Recursion_RPG.pdb

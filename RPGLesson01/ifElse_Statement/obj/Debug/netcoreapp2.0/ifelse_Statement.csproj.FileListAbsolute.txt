@@ -1,0 +1,10 @@
+c:\users\mchittenden\source\repos\RPG_Lesson01\ifElse_Statement\bin\Debug\netcoreapp2.0\ifElse_Statement.deps.json
+c:\users\mchittenden\source\repos\RPG_Lesson01\ifElse_Statement\bin\Debug\netcoreapp2.0\ifElse_Statement.runtimeconfig.json
+c:\users\mchittenden\source\repos\RPG_Lesson01\ifElse_Statement\bin\Debug\netcoreapp2.0\ifElse_Statement.runtimeconfig.dev.json
+c:\users\mchittenden\source\repos\RPG_Lesson01\ifElse_Statement\bin\Debug\netcoreapp2.0\ifElse_Statement.dll
+c:\users\mchittenden\source\repos\RPG_Lesson01\ifElse_Statement\bin\Debug\netcoreapp2.0\ifElse_Statement.pdb
+c:\users\mchittenden\source\repos\RPG_Lesson01\ifElse_Statement\obj\Debug\netcoreapp2.0\ifElse_Statement.csproj.CoreCompileInputs.cache
+c:\users\mchittenden\source\repos\RPG_Lesson01\ifElse_Statement\obj\Debug\netcoreapp2.0\ifElse_Statement.AssemblyInfoInputs.cache
+c:\users\mchittenden\source\repos\RPG_Lesson01\ifElse_Statement\obj\Debug\netcoreapp2.0\ifElse_Statement.AssemblyInfo.cs
+c:\users\mchittenden\source\repos\RPG_Lesson01\ifElse_Statement\obj\Debug\netcoreapp2.0\ifElse_Statement.dll
+c:\users\mchittenden\source\repos\RPG_Lesson01\ifElse_Statement\obj\Debug\netcoreapp2.0\ifElse_Statement.pdb
